@@ -38,7 +38,7 @@ resource "yandex_compute_instance" "app" {
   }
 
   provisioner "local-exec" {
-    command = "ANSIBLE_CONFIG=/home/sa/humster88_microservices/dockermonolith/infra/ansible/ansible.cfg ANSIBLE_HOST_KEY_CHECKING=False ansible-playbook -u ubuntu -i '${self.network_interface.0.nat_ip_address},' --private-key ${var.private_key_path} ../../ansible/playbooks/deploy.yml" 
+    command = "ANSIBLE_CONFIG=/home/sa/humster88_microservices/docker-monolith/infra/ansible/ansible.cfg ANSIBLE_HOST_KEY_CHECKING=False ansible-playbook -u ubuntu -i '${self.network_interface.0.nat_ip_address},' --private-key ${var.private_key_path} ../../ansible/playbooks/deploy.yml" 
   }
 
 }
