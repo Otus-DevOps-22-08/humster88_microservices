@@ -1,0 +1,7 @@
+REPOSITORY                  TAG       IMAGE ID       CREATED          SIZE
+humster88/ubuntu-tmp-file   latest    f3692597e600   38 seconds ago   63.1MB
+ubuntu                      18.04     71eaf13299f4   4 weeks ago      63.1MB
+hello-world                 latest    feb5d9fea6a5   14 months ago    13.3kB
+
+Образ - шаблон, на базе которого стартуют контейнеры, не имеет состояния.
+Контейнер - рабочий экземпляр, созданный на базе образа, имеет состояние, смонтированные каталоги, настроенную сеть, унаследованные настройки хоста, лимиты.
