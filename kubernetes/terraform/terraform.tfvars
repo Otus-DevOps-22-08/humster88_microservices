@@ -1,0 +1,7 @@
+cloud_id  = "b1g0st66srdstin0bt29"
+folder_id = "b1g2j6tcaa0u154vu54d"
+#zone = "ru-central1-a"
+public_key_path          = "~/.ssh/id_rsa.pub"
+private_key_path         = "~/.ssh/id_rsa"
+subnet_id                = "e9bqma7orelfpvs4304q"
+service_account_key_file = "/home/sa/key_otus.json"

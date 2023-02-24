@@ -1,0 +1,16 @@
+---
+# tasks file for k8s
+- name: install-k8s
+  import_tasks: install-k8s.yml
+  tags:
+    - all
+
+- name: master-node
+  import_tasks: master-node.yml
+  tags:
+    - master
+
+- name: worker-node
+  import_tasks: worker-node.yml
+  tags:
+    - worker
