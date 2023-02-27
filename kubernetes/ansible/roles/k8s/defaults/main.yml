@@ -1,0 +1,4 @@
+---
+# defaults file for k8s
+kube_version: 1.24.9
+kube_domain_name: cluster.local
