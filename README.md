@@ -68,3 +68,13 @@ KUBERNETES-2 HOMEWORK:
 Развернуть локальное окружение для работы с Kubernetes
 Развернуть Kubernetes в Yandex Cloud
 Запустить reddit в Kubernetes
+
+KUBERNETES-3 HOMEWORK:
+Ingress Controller
+Ingress
+Secret
+TLS
+LoadBalancer Service
+Network Policies
+PersistentVolumes
+PersistentVolumeClaims
