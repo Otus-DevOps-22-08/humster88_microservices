@@ -63,3 +63,8 @@ KUBERNETES-1 HOMEWORK:
 Ознакомиться с описанием основных примитивов нашего приложения и его дальнейшим запуском в Kubernetes
 Опишите установку кластера k8s с помощью terraform и ansible
 В директории kubernetes создайте директории terraform и ansible (все манифесты должны хранится там)
+
+KUBERNETES-2 HOMEWORK:
+Развернуть локальное окружение для работы с Kubernetes
+Развернуть Kubernetes в Yandex Cloud
+Запустить reddit в Kubernetes

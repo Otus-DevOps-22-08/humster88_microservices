@@ -1,1 +1,1 @@
-{"Modules":[{"Key":"","Source":"","Dir":"."},{"Key":"app","Source":"./modules/k8s_nodes","Dir":"modules/k8s_nodes"},{"Key":"k8s_nodes","Source":"./modules/k8s_nodes","Dir":"modules/k8s_nodes"},{"Key":"db","Source":"./modules/db","Dir":"modules/db"}]}
+{"Modules":[{"Key":"","Source":"","Dir":"."},{"Key":"app","Source":"./modules/k8s_nodes","Dir":"modules/k8s_nodes"},{"Key":"db","Source":"./modules/db","Dir":"modules/db"},{"Key":"k8s_nodes","Source":"./modules/k8s_nodes","Dir":"modules/k8s_nodes"}]}
