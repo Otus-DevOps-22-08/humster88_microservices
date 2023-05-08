@@ -78,3 +78,8 @@ LoadBalancer Service
 Network Policies
 PersistentVolumes
 PersistentVolumeClaims
+
+KUBERNETES-4 HOMEWORK:
+Работа с Helm
+Развертывание Gitlab в Kubernetes
+Запуск CI/CD конвейера в Kubernetes
