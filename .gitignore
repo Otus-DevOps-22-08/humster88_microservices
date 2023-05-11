@@ -11,3 +11,4 @@ kubernetes/terraform/terraform.tfvars
 kubernetes/terraform/ya_k8s/terraform.tfstate*
 kubernetes/terraform/ya_k8s/terraform.tfvars
 kubernetes/terraform/ya_k8s/.terraform/providers/
+kubernetes/Gitlab_ci/
